@@ -1,0 +1,17 @@
+{
+  "name": "raiffeisen",
+  "version": "1.0.0",
+  "description": "back_end side for our project with raiffeisen bank",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Cekanowski and Emile Corvini tek1 at Epitech Nancy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.6.0",
+    "mongoose": "^5.12.3",
+    "socket.io": "^4.0.1"
+  }
+}
